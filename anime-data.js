@@ -30,5 +30,13 @@ const animeList = [
     type: "ตอนที่ 1-3 ซับไทย",
     link: "https://gachiakuta-thai.github.io/sub"
 },
+
+  {
+  
+    title: "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/GoOnlineTools-image-downloader-2.jpeg",
+    type: "ตอนที่ 1-144 พากย์ไทย (จบแล้ว)",
+    link: "https://toriko-thai.github.io/"
+},
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
