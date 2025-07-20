@@ -36,7 +36,7 @@ const animeList = [
     title: "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/GoOnlineTools-image-downloader-2.jpeg",
     type: "ตอนที่ 1-144 พากย์ไทย (จบแล้ว)",
-    link: "https://toriko-thai.github.io/"
+    link: "https://toriko-th.github.io/"
 },
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
