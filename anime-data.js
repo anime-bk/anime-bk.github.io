@@ -48,7 +48,7 @@ const animeList = [
   
     title: "Sword of Coming – กระบี่จงมา ตอนที่ 1-26 ซับไทย",
     img: "https://img2.pic.in.th/pic/Jian-Lai-e1752142320381.png",
-    type: "ตอนที่ 1-26 ซับไทย. (จบแล้ว)",
+    type: "ตอนที่ 1-26 ซับไทย.",
     link: "https://sword-of-coming.github.io/"
 },
       {
