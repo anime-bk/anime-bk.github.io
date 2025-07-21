@@ -44,5 +44,19 @@ const animeList = [
     type: "ตอนที่ 1-144 พากย์ไทย (จบแล้ว)",
     link: "https://toriko-th.github.io/"
 },
+      {
+  
+    title: "Sword of Coming – กระบี่จงมา ตอนที่ 1-26 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Jian-Lai-e1752142320381.png",
+    type: "ตอนที่ 1-26 ซับไทย. (จบแล้ว)",
+    link: "https://sword-of-coming.github.io/"
+},
+      {
+  
+    title: "Sword of Coming – กระบี่จงมา ตอนที่ 1-15 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Jian-Lai-e1752142320381.png",
+    type: "ตอนที่ 1-15 พากย์ไทย.",
+    link: "https://sword-of-coming.github.io/thai"
+},
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
