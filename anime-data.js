@@ -84,7 +84,7 @@ const animeList = [
   
     title: "Tokyo Revengers โตเกียว รีเวนเจอร์ส ตอนที่ 1-24 ซับไทย",
     img: "https://img2.pic.in.th/pic/05toman-01.webp",
-    type: "ตอนที่ 1-24 พากย์ไทย",
+    type: "ตอนที่ 1-24 ซับไทย",
     link: "https://anime-bk-list.github.io/tokyo-revengers-sub"
 },
 {
