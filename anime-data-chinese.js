@@ -5,6 +5,39 @@ const animeList = [
     type: "ตอนที่ 1-170 พากย์ไทย",
     link: "https://blackcloverth.github.io/"
   },
+
+{
+  
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-225 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
+    type: "ตอนที่ 1-225 ซับไทย.",
+    link: "https://perfectxworld.github.io/sub"
+},
+{
+  
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-218 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
+    type: "ตอนที่ 1-218 พากย์ไทย.",
+    link: "https://perfectxworld.github.io/"
+},
+{
+  
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-41 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-41 ซับไทย.",
+    link: "https://mushen-ji.github.io/"
+},
+{
+  
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-33 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-32 พากย์ไทย.",
+    link: "https://mushen-ji.github.io/thai"
+},
+
+
+
+
   
 {
 
@@ -115,6 +148,9 @@ const animeList = [
     type: "ตอนที่ 1-12 ซับไทย",
     link: "https://anime-bk-list.github.io/Mashle-Ss2-sub.html"
 },
+
+
+
 
 
 
