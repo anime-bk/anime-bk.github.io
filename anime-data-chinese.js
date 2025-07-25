@@ -35,9 +35,45 @@ const animeList = [
     link: "https://mushen-ji.github.io/thai"
 },
 
+{
+  
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-157 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
+    type: "ตอนที่ 1-157 ซับไทย.",
+    link: "https://fights-break-sphere-season-5.github.io/"
+},
 
+{
+  
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-182 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
+    type: "ตอนที่ 1-182 ซับไทย.",
+    link: "https://tunshi-xingkong.github.io/"
+},
+    {
+  
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-179 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
+    type: "ตอนที่ 1-179 พากย์ไทย.",
+    link: "https://tunshi-xingkong.github.io/thai"
+},
 
+     {
+  
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-111 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
+    type: "ตอนที่ 1-111 ซับไทย.",
+    link: "https://douluo-dalu.github.io/"
+},
 
+     {
+  
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-108 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
+    type: "ตอนที่ 1-107 พากย์ไทย.",
+    link: "https://douluo-dalu.github.io/thai"
+},
+    
   
 {
 
