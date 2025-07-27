@@ -129,6 +129,13 @@ const animeList = [
 },
     {
   
+    title: "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/images-2-2.jpeg",
+    type: "ตอนที่ 1-265 พากย์ไทย.",
+    link: "https://douluo-dalu.github.io/douluoxdaluthai.html"
+},
+    {
+  
     title: "Ousama Ranking อันดับพระราชา ตอนที่ 1-23 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Ousama-Ranking-1.jpg",
     type: "ตอนที่ 1-23 ซับไทย",
