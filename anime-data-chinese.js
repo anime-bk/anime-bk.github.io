@@ -129,6 +129,13 @@ const animeList = [
 },
     {
   
+    title: "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/images-2-2.jpeg",
+    type: "ตอนที่ 1-265 พากย์ไทย.",
+    link: "https://douluo-dalu.github.io/douluoxdaluthai.html"
+},
+    {
+  
     title: "Ousama Ranking อันดับพระราชา ตอนที่ 1-23 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Ousama-Ranking-1.jpg",
     type: "ตอนที่ 1-23 ซับไทย",
@@ -184,9 +191,106 @@ const animeList = [
     type: "ตอนที่ 1-12 ซับไทย",
     link: "https://anime-bk-list.github.io/Mashle-Ss2-sub.html"
 },
+    {
+  
+    title: "Isekai Ojisan ยอดคุณน้าจากต่างโลก ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Isekai-Ojisan.jpg",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Isekai-Ojisan.html"
+},
+    {
+  
+    title: "Kimi wa Houkago Insomnia ถ้านอนไม่หลับ ไปนับดาวกันไหม ตอนที่ 1-13 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Kimi-wa-Houkago-Insomnia.jpg",
+    type: "ตอนที่ 1-13 ซับไทย",
+    link: "https://anime-bk-list.github.io/Kimi-wa-Houkago-Insomnia.html"
+},
+    {
+  
+    title: "Record of Ragnarok มหาศึกคนชนเทพ ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/1753190499976.webp",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Record-of-Ragnarok.html"
+},
+    {
+  
+    title: "Record of Ragnarok II มหาศึกคนชนเทพ ซีซั่น 2 ตอนที่ 1-15 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Ragnarok-01.jpg",
+    type: "ตอนที่ 1-15 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Record-of-RagnarokSs2.html"
+},
+    {
+  
+    title: "Spy x Family ครอบครัวปลอมๆ เฉพาะกิจ ตอนที่ 1-12 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family.jpg",
+    type: "ตอนที่ 1-12 ซับไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamily-sub.html"
+},
 
+{
+  
+    title: "Spy x Family ครอบครัวปลอมๆ เฉพาะกิจ ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamily-thai.html"
+},
+    {
+  
+    title: "Spy x Family Part 2 ครอบครัวปลอม ๆ เฉพาะกิจ พาร์ท 2 ตอนที่ 1-13 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family-Part-2-sub.jpg",
+    type: "ตอนที่ 1-13 ซับไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamilyPart2-sub.html"
+},
+    {
+  
+    title: "Spy x Family Part 2 ครอบครัวปลอม ๆ เฉพาะกิจ พาร์ท 2 ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family-Part-2-sub.jpg",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamilyPart2-thai.html"
+},
+    {
+  
+    title: "Spy x Family Season 2 ครอบครัวปลอมๆ เฉพาะกิจ ภาค 2 ตอนที่ 1-12 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family-Season-2-1.jpg",
+    type: "ตอนที่ 1-12 ซับไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamilySeason2-sub.html"
+},
+    {
+  
+    title: "Spy x Family Season 2 ครอบครัวปลอมๆ เฉพาะกิจ ภาค 2 ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Spy-x-Family-Season-2-1.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/SpyxFamilySeason2.html"
+},
+    {
+  
+    title: "Tokyo Revengers: Seiya Kessen-hen โตเกียว รีเวนเจอร์ส ภาค 2 ตอนที่ 1-13 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/tokyo-revengers-2-todos-os-episodios-scaled_11zon.jpg",
+    type: "ตอนที่ 1-13 ซับไทย",
+    link: "https://anime-bk-list.github.io/Tokyo-Revengers-Ss2.html"
+},
 
-
+{
+  
+    title: "Tokyo Revengers Tenjiku hen โตเกียว รีเวนเจอร์ส ภาค 3 ตอนที่ 1-13 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Tokyo-Revengers-Tenjiku-hen.jpg",
+    type: "ตอนที่ 1-13 ซับไทย",
+    link: "https://anime-bk-list.github.io/Tokyo-Revengers-Ss3.html"
+},
+    {
+  
+    title: "Vinland Saga สงครามคนทมิฬ ภาค 1 ตอนที่ 1-24 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Vinland-Saga.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Vinland-Saga.html"
+},
+    {
+  
+    title: "Vinland Saga Season 2 สงครามคนทมิฬ ภาค 2 ตอนที่ 1-24 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Vinland-Saga-Season-2.jpg",
+    type: "ตอนที่ 1-24 ซับไทย",
+    link: "https://anime-bk-list.github.io/Vinland-SagaSs2.html"
+},
 
 
 
