@@ -122,7 +122,7 @@ const animeList = [
 },
       {
   
-    title: "Sword of Coming – กระบี่จงมา ตอนที่ 1-19 พากย์ไทย",
+    title: "Sword of Coming – กระบี่จงมา ตอนที่ 1-18 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Jian-Lai-e1752142320381.png",
     type: "ตอนที่ 1-15 พากย์ไทย.",
     link: "https://sword-of-coming.github.io/thai"
