@@ -143,11 +143,37 @@ const animeList = [
 },
     {
   
+    title: "Naruto นารูโตะ นินจาจอมคาถา ตอนที่ 1-220 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/cartoon-cover-20.jpg",
+    type: "ตอนที่ 1-220 พากย์ไทย",
+    link: "https://naruto-ch.github.io/"
+},
+
+    {
+  
+    title: "Boruto- Naruto Next Generations โบรูโตะ ตอนที่ 1-293 ซับไทย",
+    img: "https://img2.pic.in.th/pic/MV5BNDgzYzNhOGUtMWI1Mi00YjJkLWI2NGItOWFlNDE4ZjE0NGExXkEyXkFqcGc._V1_.jpg",
+    type: "ตอนที่ 1-293 ซับไทย",
+    link: "https://naruto-ch.github.io/Boruto.html"
+},
+
+
+    {
+  
+    title: "Boruto- Naruto Next Generations โบรูโตะ ตอนที่ 197-293 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/MV5BNDgzYzNhOGUtMWI1Mi00YjJkLWI2NGItOWFlNDE4ZjE0NGExXkEyXkFqcGc._V1_.jpg",
+    type: "ตอนที่ 197-293 พากย์ไทย",
+    link: "https://naruto-ch.github.io/Boruto-thai.html"
+},
+
+    {
+  
     title: "Ousama Ranking อันดับพระราชา ตอนที่ 1-23 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Ousama-Ranking-1.jpg",
     type: "ตอนที่ 1-23 ซับไทย",
     link: "https://anime-bk-list.github.io/Ousama-Ranking-sub.html"
 },
+    
 
   {
   
@@ -272,7 +298,7 @@ const animeList = [
     {
   
     title: "Tokyo Revengers: Seiya Kessen-hen โตเกียว รีเวนเจอร์ส ภาค 2 ตอนที่ 1-13 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/tokyo-revengers-2-todos-os-episodios-scaled_11zon.jpg",
+    img: "https://img2.pic.in.th/pic/132313l.jpg",
     type: "ตอนที่ 1-13 ซับไทย",
     link: "https://anime-bk-list.github.io/Tokyo-Revengers-Ss2.html"
 },
@@ -304,4 +330,3 @@ const animeList = [
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
-    
