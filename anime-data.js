@@ -298,7 +298,7 @@ const animeList = [
     {
   
     title: "Tokyo Revengers: Seiya Kessen-hen โตเกียว รีเวนเจอร์ส ภาค 2 ตอนที่ 1-13 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/tokyo-revengers-2-todos-os-episodios-scaled_11zon.jpg",
+    img: "https://img2.pic.in.th/pic/132313l.jpg",
     type: "ตอนที่ 1-13 ซับไทย",
     link: "https://anime-bk-list.github.io/Tokyo-Revengers-Ss2.html"
 },
