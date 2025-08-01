@@ -141,6 +141,31 @@ const animeList = [
     type: "ตอนที่ 1-1138 พากย์ไทย",
     link: "https://one-piece-thai.github.io/"
 },
+
+{
+  
+    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-139 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
+    type: "ตอนที่ 1-139 ซับไทย.",
+    link: "https://ludi-jian-xian.github.io/"
+},
+
+    {
+  
+    title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-100 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Xian-Ni.jpg",
+    type: "ตอนที่ 1-100 ซับไทย.",
+    link: "https://xian-ni.github.io/"
+},
+
+    {
+  
+    title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-120 ซับไทย",
+    img: "https://img2.pic.in.th/pic/shi-hao-vs-ye-fan-vs-chu-feng-how-do-you-rank-them-v0-aeeutja6nyne1.jpg",
+    type: "ตอนที่ 1-120 ซับไทย.",
+    link: "https://shrouding-the-heavens.github.io/"
+},
+    
     {
   
     title: "Naruto นารูโตะ นินจาจอมคาถา ตอนที่ 1-220 พากย์ไทย",
