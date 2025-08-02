@@ -142,6 +142,14 @@ const animeList = [
     link: "https://one-piece-thai.github.io/"
 },
 
+    {
+  
+    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-563 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
+    type: "ตอนที่ 1-563 ซับไทย.",
+    link: "https://wushen-zhuzai.github.io/"
+},
+
 {
   
     title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-139 ซับไทย",
