@@ -142,14 +142,14 @@ const animeList = [
     link: "https://one-piece-thai.github.io/"
 },
 
-    {
+{
   
     title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-563 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
     type: "ตอนที่ 1-563 ซับไทย.",
     link: "https://wushen-zhuzai.github.io/"
 },
-
+    
 {
   
     title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-139 ซับไทย",
@@ -356,6 +356,41 @@ const animeList = [
     img: "https://img2.pic.in.th/pic/Vinland-Saga-Season-2.jpg",
     type: "ตอนที่ 1-24 ซับไทย",
     link: "https://anime-bk-list.github.io/Vinland-SagaSs2.html"
+},
+    {
+  
+    title: "Hunter x Hunter (2011) ฮันเตอร์ x ฮันเตอร์ ตอนที่ 1-148 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/hunter-x-hunter-2011-1_11zon.jpg",
+    type: "ตอนที่ 1-148 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/hunterxhunter.html"
+},
+    {
+  
+    title: "Haikyu!! 4th Season ไฮคิว คู่ตบฟ้าประทาน ภาค 4 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Haikyu03_569_800.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Haikyu-Ss4.html"
+},
+    {
+  
+    title: "Haikyu!! 3rd Season ไฮคิว คู่ตบฟ้าประทาน ภาค 3 ตอนที่ 1-10 พากย์ไทย เสียงใหม่",
+    img: "https://img2.pic.in.th/pic/image5698d3fd26d21a2a.jpg",
+    type: "ตอนที่ 1-10 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Haikyu-Ss3.html"
+},
+    {
+  
+    title: "Haikyu!! 2nd Season ไฮคิว คู่ตบฟ้าประทาน ภาค 2 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/season-2c3fff97d4ffdd31e.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Haikyu-Ss2.html"
+},
+    {
+  
+    title: "Haikyu!! ไฮคิว คู่ตบฟ้าประทาน ภาค 1 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/6357feefb9ebd40322088d13-laminated-haikyuu-poster-season-1-key.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://anime-bk-list.github.io/Haikyu-Ss1.html"
 },
 
 
