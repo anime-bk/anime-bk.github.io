@@ -393,6 +393,46 @@ const animeList = [
     link: "https://anime-bk-list.github.io/Haikyu-Ss1.html"
 },
 
+{
+  
+    title: "Yowamushi Pedal Limit Break โอตาคุน่องเหล็ก ภาค5 ตอนที่ 1-25 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Yowamushi-Pedal-Limit-Break_11zon.jpg",
+    type: "ตอนที่ 1-25 ซับไทย",
+    link: "https://yowamushi-pedal.github.io/Yowamushi-Pedal-Limit-Break-Sub-Ss5.html"
+},
+
+{
+  
+    title: "Yowamushi Pedal Glory Line 4th โอตาคุน่องเหล็ก ภาค4 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Yowamushi-Pedal-Glory-Line.webp",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://yowamushi-pedal.github.io/Yowamushi-Pedal-Glory-Line-Thai-Ss4.html"
+},
+
+{
+  
+    title: "Yowamushi Pedal New Generation โอตาคุน่องเหล็ก ภาค3 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Season3poster_11zon.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://yowamushi-pedal.github.io/Yowamushi-Pedal-New-Generation-Thai-Ss3.html"
+},
+
+{
+  
+    title: "Yowamushi Pedal-Grande Road โอตาคุน่องเหล็ก ภาค2 ตอนที่ 1-24 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Season2poster_11zon.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "https://yowamushi-pedal.github.io/Yowamushi-Pedal-Grande-Road-Ss2-Thai.html"
+},
+
+{
+  
+    title: "Yowamushi Pedal โอตาคุน่องเหล็ก ภาค1 ตอนที่ 1-38 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Season1poster_11zon.jpg",
+    type: "ตอนที่ 1-38 พากย์ไทย",
+    link: "https://yowamushi-pedal.github.io/"
+},
+
 
 
 
