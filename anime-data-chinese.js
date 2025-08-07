@@ -10,7 +10,7 @@ const animeList = [
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-226 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-226 ซับไทย.",
+    type: "ตอนที่ 1-227 ซับไทย.",
     link: "https://perfectxworld.github.io/sub"
 },
 {
@@ -24,7 +24,7 @@ const animeList = [
   
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-42 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-42 ซับไทย.",
+    type: "ตอนที่ 1-43 ซับไทย.",
     link: "https://mushen-ji.github.io/"
 },
 {
@@ -39,7 +39,7 @@ const animeList = [
   
     title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-158 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-158 ซับไทย.",
+    type: "ตอนที่ 1-159 ซับไทย.",
     link: "https://fights-break-sphere-season-5.github.io/"
 },
 
@@ -47,7 +47,7 @@ const animeList = [
   
     title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-183 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-183 ซับไทย.",
+    type: "ตอนที่ 1-184 ซับไทย.",
     link: "https://tunshi-xingkong.github.io/"
 },
     {
@@ -62,7 +62,7 @@ const animeList = [
   
     title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-112 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
-    type: "ตอนที่ 1-112 ซับไทย.",
+    type: "ตอนที่ 1-113 ซับไทย.",
     link: "https://douluo-dalu.github.io/"
 },
 
@@ -94,7 +94,7 @@ const animeList = [
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-4 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-4 พากย์ไทย",
+    type: "ตอนที่ 1-5 พากย์ไทย",
     link: "https://gachiakuta-thai.github.io/"
       },
 
@@ -102,7 +102,7 @@ const animeList = [
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-4 ซับไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-4 ซับไทย",
+    type: "ตอนที่ 1-5 ซับไทย",
     link: "https://gachiakuta-thai.github.io/sub"
 },
 
