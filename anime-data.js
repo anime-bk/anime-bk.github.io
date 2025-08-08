@@ -610,7 +610,8 @@ const animeList = [
     type: "ตอนที่ 1-9 พากย์ไทย",
     link: "https://anime-bk-listv2.github.io/Great-Pretender-Ss2-Thai.html"
 },
-  
+
+
 
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ

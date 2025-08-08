@@ -1,4 +1,18 @@
 const animeList = [
+{
+  
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-43 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-43 ซับไทย.",
+    link: "https://mushen-ji.github.io/"
+},
+  {
+  
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-5 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
+    type: "ตอนที่ 1-5 พากย์ไทย",
+    link: "https://gachiakuta-thai.github.io/"
+      },
     {
     title: "Black Clover แบล็คโคลเวอร์ ตอนที่ 1-170 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/bf26af8a102711cdc85dc1befc400c4e.jpg",
@@ -8,7 +22,7 @@ const animeList = [
 
 {
   
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-226 ซับไทย",
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-227 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
     type: "ตอนที่ 1-227 ซับไทย.",
     link: "https://perfectxworld.github.io/sub"
@@ -20,13 +34,7 @@ const animeList = [
     type: "ตอนที่ 1-219 พากย์ไทย.",
     link: "https://perfectxworld.github.io/"
 },
-{
-  
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-42 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-43 ซับไทย.",
-    link: "https://mushen-ji.github.io/"
-},
+
 {
   
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-32 พากย์ไทย",
@@ -37,7 +45,7 @@ const animeList = [
 
 {
   
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-158 ซับไทย",
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-159 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
     type: "ตอนที่ 1-159 ซับไทย.",
     link: "https://fights-break-sphere-season-5.github.io/"
@@ -45,7 +53,7 @@ const animeList = [
 
 {
   
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-183 ซับไทย",
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-184 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
     type: "ตอนที่ 1-184 ซับไทย.",
     link: "https://tunshi-xingkong.github.io/"
@@ -60,7 +68,7 @@ const animeList = [
 
      {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-112 ซับไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-113 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
     type: "ตอนที่ 1-113 ซับไทย.",
     link: "https://douluo-dalu.github.io/"
@@ -90,13 +98,7 @@ const animeList = [
     link: "https://shen-yin-wangzuo.github.io/thai"
 },
 
-      {
-  
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-4 พากย์ไทย",
-    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-5 พากย์ไทย",
-    link: "https://gachiakuta-thai.github.io/"
-      },
+    
 
 {
   
@@ -433,8 +435,191 @@ const animeList = [
     link: "https://yowamushi-pedal.github.io/"
 },
 
+{
+  
+    title: "JoJo’s Bizarre Adventure โจโจ้ ล่าข้ามศตวรรษ ภาค1 ตอนที่ 1-26 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/what-do-you-think-of-part-1-of-jojo-v0-gvecdthbcp4e1.jpeg",
+    type: "ตอนที่ 1-26 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/"
+},
+
+{
+  
+    title: "JoJo’s Bizarre Adventure Stardust Crusaders โจโจ้ ล่าข้ามศตวรรษ ภาค2 ตอนที่ 1-24 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/603ceb991fbaf50f96340f4a6e49e8e6_11zon.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/JoJo-Bizarre-Adventure-Stardust-Crusaders.html"
+},
+
+{
+  
+    title: "JoJo’s Bizarre Adventure Stardust Crusaders – Egypt Arc โจโจ้ ล่าข้ามศตวรรษ ภาค3 ตอนที่ 1-24 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/04fbf34c3cbc5529b3215072e126fb55.jpg",
+    type: "ตอนที่ 1-24 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/JoJo-Bizarre-Adventure-Stardust-Crusaders-Egypt-Arc.html"
+},
+
+{
+  
+    title: "JoJo’s Bizarre Adventure Diamond Is Unbreakable โจโจ้ ล่าข้ามศตวรรษ ภาค4 ตอนที่ 1-39 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Diamond-is-unbreakable-kv_11zon.jpg",
+    type: "ตอนที่ 1-39 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/JoJo-Bizarre-Adventure-Diamond-Is-Unbreakable.html"
+},
+
+{
+  
+    title: "JoJo’s Bizarre Adventure Golden Wind โจโจ้ ล่าข้ามศตวรรษ ภาค5 ตอนที่ 1-39 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/JoJos-Bizarre-Adventure-Golden-Wind---5.jpg",
+    type: "ตอนที่ 1-39 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/JoJo-Bizarre-Adventure-Golden-Wind.html"
+},
+
+{
+  
+    title: "JoJo’s Bizarre Adventure STONE OCEAN โจโจ้ ล่าข้ามศตวรรษ สโตนโอเชียน ภาค6 ตอนที่ 1-38 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/jojo-part-6_11zon.jpg",
+    type: "ตอนที่ 1-38 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/JoJo-Bizarre-Adventure-STONE-OCEAN.html"
+},
+
+{
+  
+    title: "Xian Wang De Ri Chang Sheng Huo ชีวิตประจำวันของราชาแห่งเซียน ตอนที่ 1-15 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Xian-Wang-de-Richang-Sheng-huo-.jpg",
+    type: "ตอนที่ 1-15 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Xian-Wang-De-Ri-Chang-Sheng-Huo.html"
+},
+
+{
+  
+    title: "Xian Wang de Richang Shenghuo 2 ชีวิตประจำวันของราชาแห่งเซียน ภาค 2 ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Xian-Wang-de-Richang-Shenghuo-2.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Xian-Wang-de-Richang-Shenghuo-2-thai.html"
+},
+
+{
+  
+    title: "Xian Wang de Richang Shenghuo 3 ชีวิตประจำวันของราชาแห่งเซียน ภาค 3 ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Xian-Wang-de-Richang-Shenghuo-3.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Xian-Wang-de-Richang-Shenghuo-Ss3-thai.html"
+},
+
+{
+  
+    title: "Xian Wang de Richang Shenghuo 4 ชีวิตประจำวันของราชาแห่งเซียน ภาค 4 ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Xian-Wang-de-Richang-Shenghuo-4.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Xian-Wang-de-Richang-Shenghuo-S4-thai.html"
+},
+
+{
+  
+    title: "Overlord โอเวอร์ ลอร์ด จอมมารพิชิตโลก ภาค 1 ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/overlord-horizonal-400x600.png",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Overlord-thai-ss1.html"
+},
+
+{
+  
+    title: "Overlord II โอเวอร์ ลอร์ด จอมมารพิชิตโลก ภาค 2 ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/overlord-season-2-anime-key.webp",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Overlord-thai-ss2.html"
+},
+
+{
+  
+    title: "Overlord III โอเวอร์ ลอร์ด จอมมารพิชิตโลก ภาค 3 ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Overlord-Season-3.webp",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Overlord-thai-ss3.html"
+},
+
+{
+  
+    title: "Overlord Season 4 โอเวอร์ ลอร์ด จอมมารพิชิตโลก ภาค 4 ตอนที่ 1-13 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/visual.jpg",
+    type: "ตอนที่ 1-13 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Overlord-thai-ss4.html"
+},
+
+{
+  
+    title: "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Shangri-La-Frontier-768x1059.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Shangri-La-Frontier-Thai.html"
+},
+
+{
+  
+    title: "Shangri-La Frontier 2nd Season 2 เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ภาค 2 ตอนที่ 1-25 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Shangri-La-Frontier-Season-2-2.jpg",
+    type: "ตอนที่ 1-25 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Shangri-La-Frontier-Ss2-Thai.html"
+},
+
+{
+  
+    title: "MF Ghost เอ็มเอฟ โกส ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/5c9f9c7ba5e52579e7b84272c8acabac.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/MF-Ghost-thai.html"
+},
+
+{
+  
+    title: "MF Ghost 2nd Season – เอ็มเอฟ โกส ซีซั่น 2 ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/27709855fa34f6e8f08a82d501b7db8f.webp",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/MF-Ghost-Ss2-thai.html"
+},
+
+{
+  
+    title: "Yakusoku no Neverland พันธสัญญาเนเวอร์แลนด์ ตอนที่ 1-12 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/d83fda37c3b81814c3b432002e0f5bf7.jpg",
+    type: "ตอนที่ 1-12 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Yakusoku-no-Neverland.html"
+},
+
+{
+  
+    title: "Yakusoku no Neverland 2nd Season พันธสัญญาเนเวอร์แลนด์ ภาค 2 ตอนที่ 1-11 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/image415f37b853d6a59a.jpg",
+    type: "ตอนที่ 1-11 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Yakusoku-no-Neverland-Ss2-thai.html"
+},
+
+{
+  
+    title: "Great Pretender ยอดคนลวงโลก ตอนที่ 1-14 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/image9a7c1a29f1a4be28.md_11zon.jpg",
+    type: "ตอนที่ 1-14 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Great-Pretender-Thai.html"
+},
+
+{
+  
+    title: "Great Pretender ยอดคนลวงโลก ภาค2 ตอนที่ 1-9 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/imaged43bc80afbfcaa88.jpg",
+    type: "ตอนที่ 1-9 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Great-Pretender-Ss2-Thai.html"
+},
+  {
+  
+    title: "Great Pretender ยอดคนลวงโลก ภาค2 ตอนที่ 1-9 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/imaged43bc80afbfcaa88.jpg",
+    type: "ตอนที่ 1-9 พากย์ไทย",
+    link: "https://anime-bk-listv2.github.io/Great-Pretender-Ss2-Thai.html"
+},
 
 
 
   // เพิ่มรายการอนิเมะได้เรื่อย ๆ
 ];
+
