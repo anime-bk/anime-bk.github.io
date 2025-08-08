@@ -610,13 +610,6 @@ const animeList = [
     type: "ตอนที่ 1-9 พากย์ไทย",
     link: "https://anime-bk-listv2.github.io/Great-Pretender-Ss2-Thai.html"
 },
-  {
-  
-    title: "Great Pretender ยอดคนลวงโลก ภาค2 ตอนที่ 1-9 พากย์ไทย",
-    img: "https://img2.pic.in.th/pic/imaged43bc80afbfcaa88.jpg",
-    type: "ตอนที่ 1-9 พากย์ไทย",
-    link: "https://anime-bk-listv2.github.io/Great-Pretender-Ss2-Thai.html"
-},
 
 
 
