@@ -1172,7 +1172,62 @@ const animeList = [
         "img": "https://img5.pic.in.th/file/secure-sv1/Kimetsu-no-Yaiba-Hashira-Geiko-hen-1.jpg",
         "type": "ตอนที่ 1-8 พากย์ไทย",
         "link": "https://anime-bk-listv3.github.io/kimetsu-no-yaiba-ss4-thai.html"
-    }
+    },
+    {
+        "title": "Tsuki ga Michibiku Isekai Douchuu จันทรานำพาสู่ต่างโลก ตอนที่ 1-12 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Tsuki-ga-Michibiku-Isekai-Douchuu.jpg",
+        "type": "ตอนที่ 1-12 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Tsuki-ga-Michibiku-Isekai-Douchuu-thai.html"
+    },
+
+    {
+        "title": "Watashi no Shiawase na Kekkon ขอให้รักเรานี้ได้มีความสุข ตอนที่ 1-12 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Watashi-no-Shiawase-na-Kekkon.jpg",
+        "type": "ตอนที่ 1-12 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Watashi-no-Shiawase-na-Kekkon-thai.html"
+    },
+
+    {
+        "title": "Sword Art Online I ซอร์ดอาร์ตออนไลน์ ภาค 1 ตอนที่ 1-25 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Sword-Art-Online-I.jpg",
+        "type": "ตอนที่ 1-25 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Sword-Art-Online-I-thai.html"
+    },
+
+    {
+        "title": "Solo Leveling โซโลเลเวลลิง ตอนที่ 1-12 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Ore-dake-Level-Up-na-Ken.webp",
+        "type": "ตอนที่ 1-12 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Solo-Leveling-thai.html"
+    },
+
+    {
+        "title": "Oshi no Ko เกิดใหม่เป็นลูกโอชิ ตอนที่ 1-11 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Oshi-no-Ko.jpg",
+        "type": "ตอนที่ 1-11 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Oshi-no-Ko-thai.html"
+    },
+
+    {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 12-23 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-2nd-Season.jpg",
+        "type": "ตอนที่ 12-23 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Part-2-thai.html"
+    },
+
+    {
+        "title": "Jujutsu Kaisen มหาเวทย์ผนึกมาร ตอนที่ 1-24 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Jujutsu-Kaisen-.jpg",
+        "type": "ตอนที่ 1-24 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Jujutsu-Kaisen-thai.html"
+    },
+
+    {
+        "title": "Kamonohashi Ron no Kindan Suiri สืบลับฉบับคาโมโนะฮาชิ รอน ตอนที่ 1-13 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Kamonohashi-Ron-no-Kindan-Suiri.jpg",
+        "type": "ตอนที่ 1-13 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Kamonohashi-Ron-no-Kindan-Suiri-thai.html"
+    },
 
 
 
