@@ -6,6 +6,14 @@ const animeList = [
     type: "ตอนที่ 1-44 ซับไทย.",
     link: "https://mushen-ji.github.io/"
 },
+
+{
+  
+    title: "Demon Slayer Kimetsu no Yaiba Infinity Castle ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต (2025) พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/DSIC_DateAnnouncement_KV_2x3_V2_11zon.jpg",
+    type: "พากย์ไทย เดอะมูฟวี่",
+    link: "https://anime-bk-listv3.github.io/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle.html"
+},
   {
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-6 พากย์ไทย",
