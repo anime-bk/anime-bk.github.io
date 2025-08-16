@@ -96,14 +96,14 @@ const animeList = [
     title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-172 ซับไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
     type: "ตอนที่ 1-172 ซับไทย.",
-    link: "https://shen-yin-wangzuo.github.io/"
+    link: "https://shen-yin-wangzuo.anime-bk.com/"
       },
         {
   
     title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-14 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
     type: "ตอนที่ 1-14 พากย์ไทย.",
-    link: "https://shen-yin-wangzuo.github.io/thai"
+    link: "https://shen-yin-wangzuo.anime-bk.com/th.html"
 },
 
     
