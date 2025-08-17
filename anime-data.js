@@ -1,4 +1,12 @@
 const animeList = [
+
+    {
+  
+    title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-102 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Xian-Ni.jpg",
+    type: "ตอนที่ 1-102 ซับไทย.",
+    link: "https://xian-ni.github.io/"
+},
 {
   
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-44 ซับไทย",
@@ -168,13 +176,6 @@ const animeList = [
     link: "https://ludi-jian-xian.github.io/"
 },
 
-    {
-  
-    title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-101 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Xian-Ni.jpg",
-    type: "ตอนที่ 1-101 ซับไทย.",
-    link: "https://xian-ni.github.io/"
-},
 
     {
   
