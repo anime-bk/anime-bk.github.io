@@ -1,5 +1,12 @@
 const animeList = [
 
+  {
+        "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-18 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Sakamoto-Days.jpg",
+        "type": "ตอนที่ 1-18 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
+    },
+
     {
   
     title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-102 ซับไทย",
@@ -11,7 +18,7 @@ const animeList = [
   
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-44 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-44 ซับไทย.",
+    type: "ตอนที่ 1-45 ซับไทย.",
     link: "https://mushen-ji.github.io/"
 },
 
@@ -26,7 +33,7 @@ const animeList = [
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-6 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-6 พากย์ไทย",
+    type: "ตอนที่ 1-7 พากย์ไทย",
     link: "https://gachiakuta-thai.github.io/"
       },
     {
@@ -40,7 +47,7 @@ const animeList = [
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-228 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-228 ซับไทย.",
+    type: "ตอนที่ 1-229 ซับไทย.",
     link: "https://perfectxworld.github.io/sub"
 },
 {
@@ -63,7 +70,7 @@ const animeList = [
   
     title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-160 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-160 ซับไทย.",
+    type: "ตอนที่ 1-161 ซับไทย.",
     link: "https://fights-break-sphere-season-5.github.io/"
 },
 
@@ -71,7 +78,7 @@ const animeList = [
   
     title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-185 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-185 ซับไทย.",
+    type: "ตอนที่ 1-186 ซับไทย.",
     link: "https://tunshi-xingkong.github.io/"
 },
     {
@@ -86,7 +93,7 @@ const animeList = [
   
     title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-114 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
-    type: "ตอนที่ 1-114 ซับไทย.",
+    type: "ตอนที่ 1-115 ซับไทย.",
     link: "https://douluo-dalu2-jueshi-tangmen.anime-bk.com/"
 },
 
@@ -103,14 +110,14 @@ const animeList = [
 
     title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-172 ซับไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
-    type: "ตอนที่ 1-172 ซับไทย.",
+    type: "ตอนที่ 1-173 ซับไทย.",
     link: "https://shen-yin-wangzuo.anime-bk.com/"
       },
         {
   
     title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-14 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
-    type: "ตอนที่ 1-14 พากย์ไทย.",
+    type: "ตอนที่ 1-16 พากย์ไทย.",
     link: "https://shen-yin-wangzuo.anime-bk.com/th.html"
 },
 
@@ -120,7 +127,7 @@ const animeList = [
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-6 ซับไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-6 ซับไทย",
+    type: "ตอนที่ 1-7 ซับไทย",
     link: "https://gachiakuta-thai.github.io/sub"
 },
 
@@ -181,7 +188,7 @@ const animeList = [
   
     title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-122 ซับไทย",
     img: "https://img2.pic.in.th/pic/shi-hao-vs-ye-fan-vs-chu-feng-how-do-you-rank-them-v0-aeeutja6nyne1.jpg",
-    type: "ตอนที่ 1-122 ซับไทย.",
+    type: "ตอนที่ 1-123 ซับไทย.",
     link: "https://shrouding-the-heavens.github.io/"
 },
     
@@ -988,12 +995,7 @@ const animeList = [
         "type": "ตอนที่ 1-12 พากย์ไทย",
         "link": "https://anime-bk-listv3.github.io/Saikyou-no-Shienshoku-thai.html"
     },
-    {
-        "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-16 พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/Sakamoto-Days.jpg",
-        "type": "ตอนที่ 1-16 พากย์ไทย",
-        "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
-    },
+  
     {
         "title": "Sengoku Youko Yonaoshi Kyoudai-hen — อสูรจิ้งจอกโลกซามูไร ตอนที่ 1-35 พากย์ไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Sengoku-Youko-Yonaoshi-Kyoudai-hen.jpg",
