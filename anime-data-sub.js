@@ -1,5 +1,13 @@
 const animeList = [
 
+{
+  
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-229 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
+    type: "ตอนที่ 1-229 ซับไทย.",
+    link: "https://perfectxworld.github.io/sub"
+},
+
   {
         "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-18 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/Sakamoto-Days.jpg",
@@ -43,13 +51,6 @@ const animeList = [
     link: "https://blackcloverth.github.io/"
   },
 
-{
-  
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-228 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-229 ซับไทย.",
-    link: "https://perfectxworld.github.io/sub"
-},
 {
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-220 พากย์ไทย",
