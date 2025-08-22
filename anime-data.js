@@ -57,9 +57,9 @@ const animeList = [
     },
     {
         "title": "Kakkou no Iinazuke Season 2 รักอลวนคนสลับบ้าน ภาค 2 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/kakkou-s2.jpg",
+        "img": "https://img2.pic.in.th/pic/Kakkou-no-Iinazuke-Season-2.jpg",
         "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://img2.pic.in.th/pic/Kakkou-no-Iinazuke-Season-2.jpg"
+        "link": "https://anime-bk-updatev2.github.io/Kakkou-no-Iinazuke-S2-sub.html"
     },
     {
         "title": "Kaoru Hana wa Rin to Saku — ดอกรักผลิบานที่กลางใจ ตอนที่ 1-7 ซับไทย",
