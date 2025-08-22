@@ -1,6 +1,25 @@
 const animeList = [
 
   {
+        "title": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-7 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc._V1__11zon.jpg",
+        "type": "ตอนที่ 1-7 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Tougen-Anki-sub.html"
+    },
+    {
+        "title": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-7 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc._V1__11zon.jpg",
+        "type": "ตอนที่ 1-7 พากย์ไทย",
+        "link": "https://anime-bk-updatev2.github.io/Tougen-Anki-thai.html"
+    },
+
+ {
+        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/MV5BNWIxMjZmNWYtOTJhYS00MzZlLThmMTMtNTgxYmRhYzRjZDZmXkEyXkFqcGc._V1__11zon.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Silent-Witch-sub.html"
+    },
+  {
         "title": "Sono Bisque Doll wa Koi wo Suru Season 2 หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ภาค 2 ตอนที่ 1-2 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/Sono-Bisque-Doll-wa-Koi-wo-Suru-2.jpg",
         "type": "ตอนที่ 1-2 พากย์ไทย",
@@ -85,12 +104,7 @@ const animeList = [
         "type": "ตอนที่ 1-7 พากย์ไทย",
         "link": "https://anime-bk-updatev2.github.io/Party-kara-Tsuihou-Chiyushi-thai.html"
     },
-    {
-        "title": "Silent Witch: Chinmoku no Majo no Kakushigoto ไซเลนต์วิตช์ ความลับของแม่มดแห่งความเงียบ ตอนที่ 1-8 ซับไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/MV5BNWIxMjZmNWYtOTJhYS00MzZlLThmMTMtNTgxYmRhYzRjZDZmXkEyXkFqcGc._V1__11zon.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Silent-Witch-sub.html"
-    },
+   
     {
         "title": "Sono Bisque Doll wa Koi wo Suru Season 2 หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ภาค 2 ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Sono-Bisque-Doll-wa-Koi-wo-Suru-2.jpg",
@@ -140,18 +154,7 @@ const animeList = [
         "type": "ตอนที่ 1-12 พากย์ไทย",
         "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-thai.html"
     },
-    {
-        "title": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-7 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc._V1__11zon.jpg",
-        "type": "ตอนที่ 1-7 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Tougen-Anki-sub.html"
-    },
-    {
-        "title": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-7 พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc._V1__11zon.jpg",
-        "type": "ตอนที่ 1-7 พากย์ไทย",
-        "link": "https://anime-bk-updatev2.github.io/Tougen-Anki-thai.html"
-    },
+  
     {
         "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาไม่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Watashi-ga-Koibito-ni-Nareru-Wake-Nai-jan-Muri-Muri-Muri-ja-Nakatta.jpg",
