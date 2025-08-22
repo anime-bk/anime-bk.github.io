@@ -199,7 +199,7 @@ const animeList = [
 },
 {
   
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-44 ซับไทย",
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-45 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
     type: "ตอนที่ 1-45 ซับไทย.",
     link: "https://mushen-ji.github.io/"
@@ -214,7 +214,7 @@ const animeList = [
 },
   {
   
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-6 พากย์ไทย",
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
     type: "ตอนที่ 1-7 พากย์ไทย",
     link: "https://gachiakuta-thai.github.io/"
@@ -228,9 +228,9 @@ const animeList = [
 
 {
   
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-220 พากย์ไทย",
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-221 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-220 พากย์ไทย.",
+    type: "ตอนที่ 1-221 พากย์ไทย.",
     link: "https://perfectxworld.github.io/"
 },
 
@@ -244,7 +244,7 @@ const animeList = [
 
 {
   
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-160 ซับไทย",
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-161 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
     type: "ตอนที่ 1-161 ซับไทย.",
     link: "https://fights-break-sphere-season-5.github.io/"
@@ -252,22 +252,22 @@ const animeList = [
 
 {
   
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-185 ซับไทย",
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-186 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
     type: "ตอนที่ 1-186 ซับไทย.",
     link: "https://tunshi-xingkong.github.io/"
 },
     {
   
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-182 พากย์ไทย",
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-183 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-182 พากย์ไทย.",
+    type: "ตอนที่ 1-183 พากย์ไทย.",
     link: "https://tunshi-xingkong.github.io/thai"
 },
 
      {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-114 ซับไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
     type: "ตอนที่ 1-115 ซับไทย.",
     link: "https://douluo-dalu2-jueshi-tangmen.anime-bk.com/"
@@ -275,23 +275,23 @@ const animeList = [
 
      {
   
-    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-111 พากย์ไทย",
+    title: "Douluo Dalu II: Jueshi Tangmen ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-112 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Soul-Land-2-Peerless-Tang-Sect-768x1077_11zon39ee47ee86426312.webp",
-    type: "ตอนที่ 1-111 พากย์ไทย.",
+    type: "ตอนที่ 1-112 พากย์ไทย.",
     link: "https://douluo-dalu2-jueshi-tangmen.anime-bk.com/thai.html"
 },
     
   
 {
 
-    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-172 ซับไทย",
+    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-173 ซับไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
     type: "ตอนที่ 1-173 ซับไทย.",
     link: "https://shen-yin-wangzuo.anime-bk.com/"
       },
         {
   
-    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-14 พากย์ไทย",
+    title: "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-16 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/GoOnlineTools-image-downloader-1_11zon-1.jpeg",
     type: "ตอนที่ 1-16 พากย์ไทย.",
     link: "https://shen-yin-wangzuo.anime-bk.com/th.html"
@@ -301,7 +301,7 @@ const animeList = [
 
 {
   
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-6 ซับไทย",
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 ซับไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
     type: "ตอนที่ 1-7 ซับไทย",
     link: "https://gachiakuta-thai.github.io/sub"
@@ -337,32 +337,32 @@ const animeList = [
 },
     {
   
-    title: "One Piece - วันพีช ซีซั่น 1-21 ตอนที่ 1-1140 พากย์ไทย ครบทุกตอน",
+    title: "One Piece - วันพีช ซีซั่น 1-21 ตอนที่ 1-1141 พากย์ไทย ครบทุกตอน",
     img: "https://img2.pic.in.th/pic/m89306293491_1.jpg",
-    type: "ตอนที่ 1-1140 พากย์ไทย",
+    type: "ตอนที่ 1-1141 พากย์ไทย",
     link: "https://one-piece-thai.github.io/"
 },
 
 {
   
-    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-567 ซับไทย",
+    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-568 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
-    type: "ตอนที่ 1-567 ซับไทย.",
+    type: "ตอนที่ 1-568 ซับไทย.",
     link: "https://wushen-zhuzai.github.io/"
 },
     
 {
   
-    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-143 ซับไทย",
+    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-145 ซับไทย",
     img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
-    type: "ตอนที่ 1-143 ซับไทย.",
+    type: "ตอนที่ 1-145 ซับไทย.",
     link: "https://ludi-jian-xian.github.io/"
 },
 
 
     {
   
-    title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-122 ซับไทย",
+    title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-123 ซับไทย",
     img: "https://img2.pic.in.th/pic/shi-hao-vs-ye-fan-vs-chu-feng-how-do-you-rank-them-v0-aeeutja6nyne1.jpg",
     type: "ตอนที่ 1-123 ซับไทย.",
     link: "https://shrouding-the-heavens.github.io/"
