@@ -169,7 +169,7 @@ const animeList = [
         "img": "https://img5.pic.in.th/file/secure-sv1/MV5BOTUwZTdiNjEtNjU0YS00Njg0LThjZGItMDVlOWZiOTUwNmViXkEyXkFqcGc._V1__11zon.jpg",
         "type": "ตอนที่ 1-8 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku-sub.html"
-    }
+    },
 
 
 {
