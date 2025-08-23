@@ -1,10 +1,17 @@
 const animeList = [
 
 {
+        "title": "Kaijuu 8-gou 2nd Season — ไคจูหมายเลข 8 ภาค 2 ตอนที่ 1-6 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Kaijuu-8-gou-2nd-Season.jpg",
+        "type": "ตอนที่ 1-6 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Kaijuu-8-gou-2nd-Season-sub.html"
+    },
+
+{
   
     title: "Kizetsu Yuusha to Ansatsu Hime — ผู้กล้าจอมวูบกับเจ้าหญิงนักฆ่า ตอนที่ 1-8 ซับไทย",
     img: "https://img2.pic.in.th/pic/Kizetsu-Yuusha-to-Ansatsu-Hime.jpg",
-    type: "ตอนที่ 1-8 ซับไทย.",
+    type: "ตอนที่ 1-8 ซับไทย",
     link: "https://anime-bk-updatev2.github.io/Kizetsu-Yuusha-to-Ansatsu-Hime-sub.html"
 },
 
@@ -65,12 +72,7 @@ const animeList = [
         "link": "https://anime-bk-updatev2.github.io/Sono-Bisque-Doll-s2-thai.html"
     },
 
-{
-        "title": "Kaijuu 8-gou 2nd Season — ไคจูหมายเลข 8 ภาค 2 ตอนที่ 1-6 ซับไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Kaijuu-8-gou-2nd-Season.jpg",
-        "type": "ตอนที่ 1-6 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Kaijuu-8-gou-2nd-Season-sub.html"
-    },
+
 {
         "title": "Mizu Zokusei no Mahoutsukai จอมเวทวารี ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Mizu-Zokusei-no-Mahoutsukai.jpg",
