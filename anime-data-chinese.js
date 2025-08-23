@@ -1,5 +1,12 @@
 const animeList = [
 
+{
+  
+    title: "Kizetsu Yuusha to Ansatsu Hime — ผู้กล้าจอมวูบกับเจ้าหญิงนักฆ่า ตอนที่ 1-8 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Kizetsu-Yuusha-to-Ansatsu-Hime.jpg",
+    type: "ตอนที่ 1-8 ซับไทย.",
+    link: "https://anime-bk-updatev2.github.io/Kizetsu-Yuusha-to-Ansatsu-Hime-sub.html"
+},
 
 {
   
