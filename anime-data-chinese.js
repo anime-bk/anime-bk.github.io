@@ -1,5 +1,20 @@
 const animeList = [
 
+{
+  
+    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-569 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
+    type: "ตอนที่ 1-569 ซับไทย.",
+    link: "https://wushen-zhuzai.github.io/"
+},
+
+  {
+        "title": "Guimi Zhi Zhu — ราชันเร้นลับ ตอนที่ 1-10 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Guimi-Zhi-Zhu.jpg",
+        "type": "ตอนที่ 1-10 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Guimi-Zhi-Zhu-sub.html"
+    },
+
   {
         "title": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-7 ซับไทย",
         "img": "https://img2.pic.in.th/pic/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc._V1__11zon.jpg",
@@ -56,12 +71,7 @@ const animeList = [
         "type": "ตอนที่ 1-9 พากย์ไทย",
         "link": "https://anime-bk-updatev2.github.io/Dandadan-S2-thai.html"
     },
-    {
-        "title": "Guimi Zhi Zhu — ราชันเร้นลับ ตอนที่ 1-10 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Guimi-Zhi-Zhu.jpg",
-        "type": "ตอนที่ 1-10 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Guimi-Zhi-Zhu-sub.html"
-    },
+  
     {
         "title": "Kaiju No. 8 — ไคจูหมายเลข 8 ตอนที่ 1-12 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Kaiju-No.-8.jpg",
@@ -343,13 +353,7 @@ const animeList = [
     link: "https://one-piece-thai.github.io/"
 },
 
-{
-  
-    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-568 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
-    type: "ตอนที่ 1-568 ซับไทย.",
-    link: "https://wushen-zhuzai.github.io/"
-},
+
     
 {
   
