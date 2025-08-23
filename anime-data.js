@@ -1,5 +1,14 @@
 const animeList = [
 
+
+{
+  
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-161 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
+    type: "ตอนที่ 1-161 ซับไทย.",
+    link: "https://fights-break-sphere-season-5.github.io/"
+},
+
 {
   
     title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-569 ซับไทย",
@@ -252,13 +261,6 @@ const animeList = [
     link: "https://mushen-ji.github.io/thai"
 },
 
-{
-  
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-161 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-161 ซับไทย.",
-    link: "https://fights-break-sphere-season-5.github.io/"
-},
 
 {
   
