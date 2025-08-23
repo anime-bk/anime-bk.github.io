@@ -3,6 +3,14 @@ const animeList = [
 
 {
   
+    title: "Yun Shen Buzhi Meng — คราสมายา หวนสู่สังหาร ตอนที่ 1-9 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Yun-Shen-Buzhi-Meng.jpg",
+    type: "ตอนที่ 1-9 ซับไทย.",
+    link: "https://anime-bk-updatev2.github.io/Yun-Shen-Buzhi-Meng-sub.html"
+},
+
+{
+  
     title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-161 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
     type: "ตอนที่ 1-161 ซับไทย.",
