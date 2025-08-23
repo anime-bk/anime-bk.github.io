@@ -1,6 +1,42 @@
 const animeList = [
 
 {
+        "title": "Koujo Denka no Kateikyoushi — ผู้สอนส่วนตัวของท่านหญิง ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Koujo-Denka-no-Kateikyoushi.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Koujo-Denka-no-Kateikyoushi-sub.html"
+    },
+
+{
+        "title": "Hikaru ga Shinda Natsu — หน้าร้อนที่ฮิคารุจากไป ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Hikaru-ga-Shinda-Natsu.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Hikaru-ga-Shinda-Natsu-sub.html"
+    },
+
+{
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai — เรื่องฝันปั่นป่วยของผมกับซานต้าคลอส ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Seishun-Buta-Yarou-wa-Santa-Claus-no-Yume-wo-Minai.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Seishun-Buta-Yarou-wa-Santa-Claus-no-Yume-wo-Minai-sub.html"
+    },
+
+ {
+        "title": "Sono Bisque Doll wa Koi wo Suru Season 2 หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ภาค 2 ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Sono-Bisque-Doll-wa-Koi-wo-Suru-2.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Sono-Bisque-Doll-s2-sub.html"
+    },
+
+
+{
+        "title": "Scooped Up by an S-Ranked Adventurer — นักเวทขาวที่ถูกไล่ออกจากปาร์ตี้ผู้กล้าถูกนักผจญภัยระดับ S รับตัวไป ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Scooped-Up-by-an-S-Ranked-Adventurer.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Scooped-Up-by-an-S-Ranked-Adventurer-sub.html"
+    },
+
+{
         "title": "Kaijuu 8-gou 2nd Season — ไคจูหมายเลข 8 ภาค 2 ตอนที่ 1-6 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Kaijuu-8-gou-2nd-Season.jpg",
         "type": "ตอนที่ 1-6 ซับไทย",
@@ -141,12 +177,7 @@ const animeList = [
         "link": "https://anime-bk-updatev2.github.io/Party-kara-Tsuihou-Chiyushi-thai.html"
     },
    
-    {
-        "title": "Sono Bisque Doll wa Koi wo Suru Season 2 หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ภาค 2 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Sono-Bisque-Doll-wa-Koi-wo-Suru-2.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Sono-Bisque-Doll-s2-sub.html"
-    },
+   
   
     {
         "title": "Sono Bisque Doll wa Koi wo suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ตอนที่ 1-12 ซับไทย",
