@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "Busamen Gachi Fighter — ไอ้หน้าปลวกยอดนักสู้ ตอนที่ 1-8 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Busamen-Gachi-Fighter.jpg",
+    type: "ตอนที่ 1-8 ซับไทย",
+    link: "https://anime-bk-updatev2.github.io/Busamen-Gachi-Fighter-sub.html"
+},
+
+{
+  
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 ซับไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
     type: "ตอนที่ 1-7 ซับไทย",
