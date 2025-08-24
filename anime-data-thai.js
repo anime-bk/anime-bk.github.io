@@ -1,5 +1,13 @@
 const animeList = [
 
+{
+  
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
+    type: "ตอนที่ 1-7 ซับไทย",
+    link: "https://gachiakuta-thai.github.io/sub"
+},
+
   {
   
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 พากย์ไทย",
@@ -369,13 +377,7 @@ const animeList = [
 
     
 
-{
-  
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-7 ซับไทย",
-    link: "https://gachiakuta-thai.github.io/sub"
-},
+
 
   {
   
