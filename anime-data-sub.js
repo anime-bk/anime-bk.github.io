@@ -1,5 +1,20 @@
 const animeList = [
 
+ {
+        "title": "Kaoru Hana wa Rin to Saku — ดอกรักผลิบานที่กลางใจ ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Kaoru-Hana-wa-Rin-to-Saku.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Kaoru-Hana-wa-Rin-to-Saku-sub.html"
+    },
+
+{
+  
+    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-570 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
+    type: "ตอนที่ 1-570 ซับไทย.",
+    link: "https://wushen-zhuzai.github.io/"
+},
+
 {
   
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-45 ซับไทย",
@@ -75,13 +90,7 @@ const animeList = [
     link: "https://fights-break-sphere-season-5.github.io/"
 },
 
-{
-  
-    title: "Wushen Zhuzai มหาศึกเทพสงคราม ตอนที่ 1-569 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/tiiDyfu3CXhqJMqD303KjMctNVG.jpg",
-    type: "ตอนที่ 1-569 ซับไทย.",
-    link: "https://wushen-zhuzai.github.io/"
-},
+
 
   {
         "title": "Guimi Zhi Zhu — ราชันเร้นลับ ตอนที่ 1-10 ซับไทย",
@@ -160,12 +169,7 @@ const animeList = [
         "type": "ตอนที่ 1-8 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/Kakkou-no-Iinazuke-S2-sub.html"
     },
-    {
-        "title": "Kaoru Hana wa Rin to Saku — ดอกรักผลิบานที่กลางใจ ตอนที่ 1-7 ซับไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Kaoru-Hana-wa-Rin-to-Saku.jpg",
-        "type": "ตอนที่ 1-7 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Kaoru-Hana-wa-Rin-to-Saku-sub.html"
-    },
+   
     {
         "title": "Mikadono Sanshimai wa Angai Choroi สามสาวสุดเท่มิคาโดโนะดันโก๊ะเกินคาด ตอนที่ 1-9 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Mikadono-Sanshimai-wa-Angai-Choroi.jpg",
