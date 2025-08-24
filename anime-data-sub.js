@@ -1,5 +1,20 @@
 const animeList = [
 
+  {
+  
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
+    type: "ตอนที่ 1-7 พากย์ไทย",
+    link: "https://gachiakuta-thai.github.io/"
+      },
+
+   {
+        "title": "Isekai Mokushiroku Mynoghra — ไมนอกรา บันทึกวันอวสานต่างโลก พิชิตใต้หล้าด้วยอารยธรรมแห่งหายนะ ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/MV5BOTUwZTdiNjEtNjU0YS00Njg0LThjZGItMDVlOWZiOTUwNmViXkEyXkFqcGc._V1__11zon.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku-sub.html"
+    },
+
  {
         "title": "Kaoru Hana wa Rin to Saku — ดอกรักผลิบานที่กลางใจ ตอนที่ 1-8 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Kaoru-Hana-wa-Rin-to-Saku.jpg",
@@ -235,7 +250,7 @@ const animeList = [
     },
   
     {
-        "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาไม่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
+        "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาค์่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Watashi-ga-Koibito-ni-Nareru-Wake-Nai-jan-Muri-Muri-Muri-ja-Nakatta.jpg",
         "type": "ตอนที่ 1-8 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/Watashi-ga-Koibito-Naru-Wake-Nai-jan-sub.html"
@@ -246,12 +261,7 @@ const animeList = [
         "type": "ตอนที่ 1-8 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/"
     },
-    {
-        "title": "Isekai Mokushiroku Mynoghra — ไมนอกรา บันทึกวันอวสานต่างโลก พิชิตใต้หล้าด้วยอารยธรรมแห่งหายนะ ตอนที่ 1-8 ซับไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/MV5BOTUwZTdiNjEtNjU0YS00Njg0LThjZGItMDVlOWZiOTUwNmViXkEyXkFqcGc._V1__11zon.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku-sub.html"
-    },
+ 
 
 
 {
@@ -285,13 +295,7 @@ const animeList = [
     type: "พากย์ไทย เดอะมูฟวี่",
     link: "https://anime-bk-listv3.github.io/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle.html"
 },
-  {
-  
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 พากย์ไทย",
-    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-7 พากย์ไทย",
-    link: "https://gachiakuta-thai.github.io/"
-      },
+
     {
     title: "Black Clover แบล็คโคลเวอร์ ตอนที่ 1-170 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/bf26af8a102711cdc85dc1befc400c4e.jpg",
