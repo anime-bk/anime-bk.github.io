@@ -1,5 +1,21 @@
 const animeList = [
 
+  {
+  
+    title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-103 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Xian-Ni.jpg",
+    type: "ตอนที่ 1-103 ซับไทย.",
+    link: "https://xian-ni.github.io/"
+},
+
+  {
+  
+    title: "One Piece - วันพีช ซีซั่น 1-21 ตอนที่ 1-1141 พากย์ไทย ครบทุกตอน",
+    img: "https://img2.pic.in.th/pic/m89306293491_1.jpg",
+    type: "ตอนที่ 1-1141 พากย์ไทย",
+    link: "https://one-piece-thai.github.io/"
+},
+
 {
   
     title: "Busamen Gachi Fighter — ไอ้หน้าปลวกยอดนักสู้ ตอนที่ 1-8 ซับไทย",
@@ -295,13 +311,7 @@ const animeList = [
         "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
     },
 
-    {
   
-    title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-102 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Xian-Ni.jpg",
-    type: "ตอนที่ 1-102 ซับไทย.",
-    link: "https://xian-ni.github.io/"
-},
 
 
 {
@@ -415,13 +425,7 @@ const animeList = [
     type: "ตอนที่ 1-265 พากย์ไทย.",
     link: "https://douluo-dalu-thai.anime-bk.com/"
 },
-    {
   
-    title: "One Piece - วันพีช ซีซั่น 1-21 ตอนที่ 1-1141 พากย์ไทย ครบทุกตอน",
-    img: "https://img2.pic.in.th/pic/m89306293491_1.jpg",
-    type: "ตอนที่ 1-1141 พากย์ไทย",
-    link: "https://one-piece-thai.github.io/"
-},
 
 
     
