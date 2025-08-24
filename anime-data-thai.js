@@ -1,6 +1,14 @@
 const animeList = [
 
 {
+  
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-45 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-45 ซับไทย.",
+    link: "https://mushen-ji.github.io/"
+},
+
+{
         "title": "Koujo Denka no Kateikyoushi — ผู้สอนส่วนตัวของท่านหญิง ตอนที่ 1-8 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Koujo-Denka-no-Kateikyoushi.jpg",
         "type": "ตอนที่ 1-8 ซับไทย",
@@ -264,13 +272,7 @@ const animeList = [
     type: "ตอนที่ 1-102 ซับไทย.",
     link: "https://xian-ni.github.io/"
 },
-{
-  
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-45 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-45 ซับไทย.",
-    link: "https://mushen-ji.github.io/"
-},
+
 
 {
   
