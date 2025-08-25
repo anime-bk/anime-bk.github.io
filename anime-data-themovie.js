@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "Tensei Kizoku Kantei Skill de Nariagaru Season 2 — เกิดใหม่เป็นขุนนางขึ้นเป็นใหญ่ด้วยสกิลประเมิน ภาค 2 ตอนที่ 1-7 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Season-2.jpg",
+    type: "ตอนที่ 1-7 พากย์ไทย",
+    link: "https://anime-bk-updatev2.github.io/Tensei-Kizoku-Kantei-Skill-S2-thai.html"
+},
+
+{
+  
     title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-186 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
     type: "ตอนที่ 1-186 ซับไทย.",
