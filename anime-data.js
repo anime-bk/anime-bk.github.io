@@ -1,5 +1,13 @@
 const animeList = [
 
+{
+  
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-186 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
+    type: "ตอนที่ 1-186 ซับไทย.",
+    link: "https://tunshi-xingkong.github.io/"
+},
+
   {
   
     title: "Xian Ni ฝืนลิขิตฟ้าข้าขอเป็นเซียน ตอนที่ 1-103 ซับไทย",
@@ -346,13 +354,7 @@ const animeList = [
 },
 
 
-{
-  
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-186 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-186 ซับไทย.",
-    link: "https://tunshi-xingkong.github.io/"
-},
+
     {
   
     title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-183 พากย์ไทย",
