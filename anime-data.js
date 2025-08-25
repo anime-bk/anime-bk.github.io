@@ -1,5 +1,12 @@
 const animeList = [
 
+  {
+        "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาค์่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Watashi-ga-Koibito-ni-Nareru-Wake-Nai-jan-Muri-Muri-Muri-ja-Nakatta.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Watashi-ga-Koibito-Naru-Wake-Nai-jan-sub.html"
+    },
+
 
   {
         "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-18 พากย์ไทย",
@@ -313,12 +320,7 @@ const animeList = [
         "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-thai.html"
     },
   
-    {
-        "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาค์่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Watashi-ga-Koibito-ni-Nareru-Wake-Nai-jan-Muri-Muri-Muri-ja-Nakatta.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Watashi-ga-Koibito-Naru-Wake-Nai-jan-sub.html"
-    },
+  
     {
         "title": "Tate no Yuusha Season 4 ผู้กล้าโล่ผงาด ภาค 4 ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/tatenoyuushass4_11zon.webp",
