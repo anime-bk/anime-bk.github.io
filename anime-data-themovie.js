@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-146 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
+    type: "ตอนที่ 1-146 ซับไทย.",
+    link: "https://ludi-jian-xian.github.io/"
+},
+
+{
+  
     title: "Tensei Kizoku Kantei Skill de Nariagaru Season 2 — เกิดใหม่เป็นขุนนางขึ้นเป็นใหญ่ด้วยสกิลประเมิน ภาค 2 ตอนที่ 1-7 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tensei-Kizoku-Kantei-Skill-de-Nariagaru-Season-2.jpg",
     type: "ตอนที่ 1-7 พากย์ไทย",
@@ -439,13 +447,7 @@ const animeList = [
 
 
     
-{
-  
-    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-145 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
-    type: "ตอนที่ 1-145 ซับไทย.",
-    link: "https://ludi-jian-xian.github.io/"
-},
+
 
 
     {
