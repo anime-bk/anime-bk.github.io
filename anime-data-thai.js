@@ -1,5 +1,13 @@
 const animeList = [
 
+
+  {
+        "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-18 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Sakamoto-Days.jpg",
+        "type": "ตอนที่ 1-18 พากย์ไทย",
+        "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
+    },
+
 {
   
     title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-146 ซับไทย",
@@ -328,12 +336,6 @@ const animeList = [
     link: "https://perfectxworld.github.io/sub"
 },
 
-  {
-        "title": "Sakamoto Days ซากาโมโตะเดยส์ ตอนที่ 1-18 พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/Sakamoto-Days.jpg",
-        "type": "ตอนที่ 1-18 พากย์ไทย",
-        "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
-    },
 
   
 
