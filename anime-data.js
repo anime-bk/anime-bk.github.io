@@ -1,5 +1,12 @@
 const animeList = [
 
+{
+  
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-222 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
+    type: "ตอนที่ 1-222 พากย์ไทย.",
+    link: "https://perfectxworld.github.io/"
+},
   {
         "title": "Watashi ga Koibito ni Nareru Wake Nai jan Muri Muri! Muri ja Nakatta!? ให้เป็นแฟนได้ไงไม่เอาค์่ไหวหรอก! หรือว่าจะไหวนะ!? ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Watashi-ga-Koibito-ni-Nareru-Wake-Nai-jan-Muri-Muri-Muri-ja-Nakatta.jpg",
@@ -357,13 +364,7 @@ const animeList = [
     link: "https://blackcloverth.github.io/"
   },
 
-{
-  
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-221 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-221 พากย์ไทย.",
-    link: "https://perfectxworld.github.io/"
-},
+
 
 {
   
