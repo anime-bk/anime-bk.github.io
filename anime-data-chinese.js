@@ -1,5 +1,12 @@
 const animeList = [
 
+  {
+        "title": "Kakkou no Iinazuke Season 2 รักอลวนคนสลับบ้าน ภาค 2 ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Kakkou-no-Iinazuke-Season-2.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Kakkou-no-Iinazuke-S2-sub.html"
+    },
+
 {
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-222 พากย์ไทย",
@@ -256,12 +263,7 @@ const animeList = [
         "type": "ตอนที่ 1-12 พากย์ไทย",
         "link": "https://anime-bk-updatev2.github.io/Kaiju-No8-thai.html"
     },
-    {
-        "title": "Kakkou no Iinazuke Season 2 รักอลวนคนสลับบ้าน ภาค 2 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Kakkou-no-Iinazuke-Season-2.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Kakkou-no-Iinazuke-S2-sub.html"
-    },
+  
    
     {
         "title": "Mikadono Sanshimai wa Angai Choroi สามสาวสุดเท่มิคาโดโนะดันโก๊ะเกินคาด ตอนที่ 1-9 ซับไทย",
