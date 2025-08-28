@@ -1,6 +1,14 @@
 const animeList = [
 
 
+    {
+        "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-4 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/Tensei-Shitara-Dai-Nana-Ouji-Dattanode-Kimamani-Majutsu-wo-Kiwamemasu-2nd-Season.jpg",
+        "type": "ตอนที่ 1-4 พากย์ไทย",
+        "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-S2-thai.html"
+    },
+
+
 {
         "title": "Mizu Zokusei no Mahoutsukai จอมเวทวารี ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Mizu-Zokusei-no-Mahoutsukai.jpg",
@@ -358,12 +366,6 @@ const animeList = [
     },
    
  
-    {
-        "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-4 พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/Tensei-Shitara-Dai-Nana-Ouji-Dattanode-Kimamani-Majutsu-wo-Kiwamemasu-2nd-Season.jpg",
-        "type": "ตอนที่ 1-4 พากย์ไทย",
-        "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-S2-thai.html"
-    },
     {
         "title": "Tensei Shitara Dai Nana Ouji Dattanode พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ตอนที่ 1-12 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Tensei-Shitara-Dai-Nana-Ouji-Dattanode.jpg",
