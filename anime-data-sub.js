@@ -1,5 +1,26 @@
 const animeList = [
 
+
+{
+        "title": "Mizu Zokusei no Mahoutsukai จอมเวทวารี ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Mizu-Zokusei-no-Mahoutsukai.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Mizu-Zokusei-no-Mahoutsukai-sub.html"
+    },
+
+{
+        "title": "Dandadan 2nd Season ดันดาดัน ภาค 2 ตอนที่ 1-8 ซับไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Dandadan-2nd-Season.jpg",
+        "type": "ตอนที่ 1-9 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Dandadan-S2-sub.html"
+    },
+    {
+        "title": "Dandadan Season 2 ดันดาดัน ภาค 2 ตอนที่ 1-8 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Dandadan-2nd-Season.jpg",
+        "type": "ตอนที่ 1-9 พากย์ไทย",
+        "link": "https://anime-bk-updatev2.github.io/Dandadan-S2-thai.html"
+    },
+
 {
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-230 ซับไทย",
@@ -295,25 +316,8 @@ const animeList = [
     },
 
 
-{
-        "title": "Mizu Zokusei no Mahoutsukai จอมเวทวารี ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Mizu-Zokusei-no-Mahoutsukai.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Mizu-Zokusei-no-Mahoutsukai-sub.html"
-    },
   
-    {
-        "title": "Dandadan 2nd Season ดันดาดัน ภาค 2 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Dandadan-2nd-Season.jpg",
-        "type": "ตอนที่ 1-9 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Dandadan-S2-sub.html"
-    },
-    {
-        "title": "Dandadan Season 2 ดันดาดัน ภาค 2 ตอนที่ 1-8 พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Dandadan-2nd-Season.jpg",
-        "type": "ตอนที่ 1-9 พากย์ไทย",
-        "link": "https://anime-bk-updatev2.github.io/Dandadan-S2-thai.html"
-    },
+    
   
     {
         "title": "Kaiju No. 8 — ไคจูหมายเลข 8 ตอนที่ 1-12 ซับไทย",
