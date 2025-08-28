@@ -2,6 +2,15 @@ const animeList = [
 
 {
   
+    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-230 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
+    type: "ตอนที่ 1-230 ซับไทย.",
+    link: "https://perfectxworld.github.io/sub"
+},
+
+
+{
+  
     title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-184 พากย์ไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
     type: "ตอนที่ 1-184 พากย์ไทย.",
@@ -369,13 +378,6 @@ const animeList = [
  
 
 
-{
-  
-    title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-229 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Perfect-World-1.jpg",
-    type: "ตอนที่ 1-229 ซับไทย.",
-    link: "https://perfectxworld.github.io/sub"
-},
 
 
   
