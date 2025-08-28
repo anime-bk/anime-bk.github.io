@@ -1,5 +1,71 @@
 const animeList = [
 
+{
+  
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-184 พากย์ไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
+    type: "ตอนที่ 1-184 พากย์ไทย.",
+    link: "https://tunshi-xingkong.github.io/thai"
+},
+
+{
+  
+    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-147 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
+    type: "ตอนที่ 1-147 ซับไทย.",
+    link: "https://ludi-jian-xian.github.io/"
+},
+
+  {
+        "title": "Mikadono Sanshimai wa Angai Choroi สามสาวสุดเท่มิคาโดโนะดันโก๊ะเกินคาด ตอนที่ 1-9 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Mikadono-Sanshimai-wa-Angai-Choroi.jpg",
+        "type": "ตอนที่ 1-9 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Mikadono-Sanshimai-Season1-sub.html"
+    },
+
+   {
+        "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Tensei-Shitara-Dai-Nana-Ouji-Dattanode-Kimamani-Majutsu-wo-Kiwamemasu-2nd-Season.jpg",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-S2-sub.html"
+    },
+
+    {
+        "title": "Party kara Tsuihou sareta Sono Chiyushi Jitsu wa Saikyou ni Tsuki ฮีลเลอร์ที่ถูกเตะออกจากตี้ แท้จริงแล้วแกร่งสุด ตอนที่ 1-7 พากย์ไทย",
+        "img": "https://img5.pic.in.th/file/secure-sv1/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki.jpg",
+        "type": "ตอนที่ 1-7 พากย์ไทย",
+        "link": "https://anime-bk-updatev2.github.io/Party-kara-Tsuihou-Chiyushi-thai.html"
+    },
+
+{
+        "title": "Tate no Yuusha Season 4 ผู้กล้าโล่ผงาด ภาค 4 ตอนที่ 1-8 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/tatenoyuushass4_11zon.webp",
+        "type": "ตอนที่ 1-8 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/"
+    },
+
+  {
+        "title": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha เคลวาเทส อสูรจอมราชัน ตอนที่ 1-9 ซับไทย",
+        "img": "https://img2.pic.in.th/pic/Clevatess-Majuu-no-Ou-to-Akago-to-Kabane-no-Yuusha.jpg",
+        "type": "ตอนที่ 1-9 ซับไทย",
+        "link": "https://anime-bk-updatev2.github.io/Clevatess-Majuu-no-Ou-sub.html"
+    },
+
+ {
+        "title": "Tate no Yuusha Season 4 ผู้กล้าโล่ผงาด ภาค 4 ตอนที่ 1-7 พากย์ไทย",
+        "img": "https://img2.pic.in.th/pic/tatenoyuushass4_11zon.webp",
+        "type": "ตอนที่ 1-7 พากย์ไทย",
+        "link": "https://anime-bk-updatev2.github.io/Tate-no-Yuusha-Season4-thai.html"
+    },
+
+  {
+  
+    title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-124 ซับไทย",
+    img: "https://img2.pic.in.th/pic/shi-hao-vs-ye-fan-vs-chu-feng-how-do-you-rank-them-v0-aeeutja6nyne1.jpg",
+    type: "ตอนที่ 1-124 ซับไทย.",
+    link: "https://shrouding-the-heavens.github.io/"
+},
+
   {
         "title": "Kakkou no Iinazuke Season 2 รักอลวนคนสลับบ้าน ภาค 2 ตอนที่ 1-8 ซับไทย",
         "img": "https://img2.pic.in.th/pic/Kakkou-no-Iinazuke-Season-2.jpg",
@@ -29,13 +95,7 @@ const animeList = [
         "link": "https://anime-bk-listv3.github.io/Sakamoto-Days-thai.html"
     },
 
-{
-  
-    title: "Ludi Jian Xian ยอดยุทธ์เกรียนคีย์บอร์ด ตอนที่ 1-146 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Ludi-Jian-Xian.jpg",
-    type: "ตอนที่ 1-146 ซับไทย.",
-    link: "https://ludi-jian-xian.github.io/"
-},
+
 
 {
   
@@ -232,12 +292,7 @@ const animeList = [
         "type": "ตอนที่ 1-8 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/Mizu-Zokusei-no-Mahoutsukai-sub.html"
     },
-    {
-        "title": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha เคลวาเทส อสูรจอมราชัน ตอนที่ 1-9 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Clevatess-Majuu-no-Ou-to-Akago-to-Kabane-no-Yuusha.jpg",
-        "type": "ตอนที่ 1-9 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Clevatess-Majuu-no-Ou-sub.html"
-    },
+  
     {
         "title": "Dandadan 2nd Season ดันดาดัน ภาค 2 ตอนที่ 1-8 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Dandadan-2nd-Season.jpg",
@@ -265,24 +320,14 @@ const animeList = [
     },
   
    
-    {
-        "title": "Mikadono Sanshimai wa Angai Choroi สามสาวสุดเท่มิคาโดโนะดันโก๊ะเกินคาด ตอนที่ 1-9 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Mikadono-Sanshimai-wa-Angai-Choroi.jpg",
-        "type": "ตอนที่ 1-9 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Mikadono-Sanshimai-Season1-sub.html"
-    },
+  
     {
         "title": "Party kara Tsuihou sareta Sono Chiyushi Jitsu wa Saikyou ni Tsuki ฮีลเลอร์ที่ถูกเตะออกจากตี้ แท้จริงแล้วแกร่งสุด ตอนที่ 1-12 ซับไทย",
         "img": "https://img5.pic.in.th/file/secure-sv1/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki.jpg",
         "type": "ตอนที่ 1-12 ซับไทย",
         "link": "https://anime-bk-updatev2.github.io/Party-kara-Tsuihou-Chiyushi-sub.html"
     },
-    {
-        "title": "Party kara Tsuihou sareta Sono Chiyushi Jitsu wa Saikyou ni Tsuki ฮีลเลอร์ที่ถูกเตะออกจากตี้ แท้จริงแล้วแกร่งสุด ตอนที่ 1-7 พากย์ไทย",
-        "img": "https://img5.pic.in.th/file/secure-sv1/Party-kara-Tsuihou-sareta-Sono-Chiyushi-Jitsu-wa-Saikyou-ni-Tsuki.jpg",
-        "type": "ตอนที่ 1-7 พากย์ไทย",
-        "link": "https://anime-bk-updatev2.github.io/Party-kara-Tsuihou-Chiyushi-thai.html"
-    },
+
    
    
   
@@ -298,18 +343,8 @@ const animeList = [
         "type": "ตอนที่ 1-12 พากย์ไทย",
         "link": "https://anime-bk-updatev2.github.io/Sono-Bisque-Doll-thai.html"
     },
-    {
-        "title": "Tate no Yuusha Season 4 ผู้กล้าโล่ผงาด ภาค 4 ตอนที่ 1-7 พากย์ไทย",
-        "img": "https://img2.pic.in.th/pic/tatenoyuushass4_11zon.webp",
-        "type": "ตอนที่ 1-7 พากย์ไทย",
-        "link": "https://anime-bk-updatev2.github.io/Tate-no-Yuusha-Season4-thai.html"
-    },
-    {
-        "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/Tensei-Shitara-Dai-Nana-Ouji-Dattanode-Kimamani-Majutsu-wo-Kiwamemasu-2nd-Season.jpg",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/Tensei-Shitara-Dai-Nana-Ouji-S2-sub.html"
-    },
+   
+ 
     {
         "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-4 พากย์ไทย",
         "img": "https://img2.pic.in.th/pic/Tensei-Shitara-Dai-Nana-Ouji-Dattanode-Kimamani-Majutsu-wo-Kiwamemasu-2nd-Season.jpg",
@@ -330,12 +365,7 @@ const animeList = [
     },
   
   
-    {
-        "title": "Tate no Yuusha Season 4 ผู้กล้าโล่ผงาด ภาค 4 ตอนที่ 1-8 ซับไทย",
-        "img": "https://img2.pic.in.th/pic/tatenoyuushass4_11zon.webp",
-        "type": "ตอนที่ 1-8 ซับไทย",
-        "link": "https://anime-bk-updatev2.github.io/"
-    },
+    
  
 
 
@@ -378,13 +408,7 @@ const animeList = [
 
 
 
-    {
-  
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-183 พากย์ไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-183 พากย์ไทย.",
-    link: "https://tunshi-xingkong.github.io/thai"
-},
+    
 
      {
   
@@ -457,13 +481,7 @@ const animeList = [
 
 
 
-    {
   
-    title: "Shrouding the Heavens อำพรางสวรรค์ ตอนที่ 1-123 ซับไทย",
-    img: "https://img2.pic.in.th/pic/shi-hao-vs-ye-fan-vs-chu-feng-how-do-you-rank-them-v0-aeeutja6nyne1.jpg",
-    type: "ตอนที่ 1-123 ซับไทย.",
-    link: "https://shrouding-the-heavens.github.io/"
-},
     
     {
   
