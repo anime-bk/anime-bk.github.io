@@ -1,5 +1,13 @@
 const animeList = [
 
+{
+  
+    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-162 ซับไทย",
+    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
+    type: "ตอนที่ 1-162 ซับไทย.",
+    link: "https://fights-break-sphere-season-5.github.io/"
+},
+
 
     {
         "title": "Tensei Shitara Dai Nana Ouji Dattanode Kimamani Majutsu wo Kiwamemasu 2nd Season พอได้เกิดใหม่เป็นองค์ชายลำดับที่เจ็ด ก็เพื่อเรียนเวทให้สนุก ภาค 2 ตอนที่ 1-4 พากย์ไทย",
@@ -280,13 +288,7 @@ const animeList = [
     link: "https://anime-bk-updatev2.github.io/Yun-Shen-Buzhi-Meng-sub.html"
 },
 
-{
-  
-    title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-161 ซับไทย",
-    img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
-    type: "ตอนที่ 1-161 ซับไทย.",
-    link: "https://fights-break-sphere-season-5.github.io/"
-},
+
 
 
 
