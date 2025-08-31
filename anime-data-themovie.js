@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-46 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-46 ซับไทย.",
+    link: "https://mushen-ji.github.io/"
+},
+
+{
+  
     title: "Fights Break Sphere Season 5 สัประยุทธ์ทะลุฟ้า ภาค 5 ตอนที่ 1-162 ซับไทย",
     img: "https://img2.pic.in.th/pic/Fights-Break-Sphere-Season-5-1_11zon3cf7c93b89dc03bb.jpg",
     type: "ตอนที่ 1-162 ซับไทย.",
@@ -221,13 +229,7 @@ const animeList = [
     link: "https://wushen-zhuzai.github.io/"
 },
 
-{
-  
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-45 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-45 ซับไทย.",
-    link: "https://mushen-ji.github.io/"
-},
+
 
 {
         "title": "Koujo Denka no Kateikyoushi — ผู้สอนส่วนตัวของท่านหญิง ตอนที่ 1-8 ซับไทย",
