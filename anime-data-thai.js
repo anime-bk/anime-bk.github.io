@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-8 พากย์ไทย",
+    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
+    type: "ตอนที่ 1-8 พากย์ไทย",
+    link: "https://gachiakuta-thai.github.io/"
+      },
+
+{
+  
     title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-46 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
     type: "ตอนที่ 1-46 ซับไทย.",
@@ -199,13 +207,7 @@ const animeList = [
     link: "https://gachiakuta-thai.github.io/sub"
 },
 
-  {
   
-    title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-7 พากย์ไทย",
-    img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
-    type: "ตอนที่ 1-7 พากย์ไทย",
-    link: "https://gachiakuta-thai.github.io/"
-      },
 
    {
         "title": "Isekai Mokushiroku Mynoghra — ไมนอกรา บันทึกวันอวสานต่างโลก พิชิตใต้หล้าด้วยอารยธรรมแห่งหายนะ ตอนที่ 1-8 ซับไทย",
