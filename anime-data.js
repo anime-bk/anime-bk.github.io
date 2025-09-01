@@ -2,6 +2,14 @@ const animeList = [
 
 {
   
+    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-187 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
+    type: "ตอนที่ 1-187 ซับไทย.",
+    link: "https://tunshi-xingkong.github.io/"
+},
+
+{
+  
     title: "GachiAkuta – กาจิอาคุตะ ตอนที่ 1-8 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/Gachiakuta36af1c3c5aa00cfb.jpg",
     type: "ตอนที่ 1-8 พากย์ไทย",
@@ -167,13 +175,7 @@ const animeList = [
     link: "https://anime-bk-updatev2.github.io/Tensei-Kizoku-Kantei-Skill-S2-thai.html"
 },
 
-{
-  
-    title: "Tunshi Xingkong – มหาศึกล้างพิภพ ตอนที่ 1-186 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Tunshi-Xingkong-2.jpg",
-    type: "ตอนที่ 1-186 ซับไทย.",
-    link: "https://tunshi-xingkong.github.io/"
-},
+
 
   {
   
