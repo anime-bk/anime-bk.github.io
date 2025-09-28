@@ -1,5 +1,13 @@
 const animeList = [
 
+  {
+  
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-50 ซับไทย",
+    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
+    type: "ตอนที่ 1-50 ซับไทย.",
+    link: "https://mushen-ji.github.io/"
+},
+
 {
   
     title: "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-233 ซับไทย",
@@ -24,13 +32,7 @@ const animeList = [
     link: "https://gachiakuta-thai.github.io/"
       },
 
-{
-  
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-49 ซับไทย",
-    img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-49 ซับไทย.",
-    link: "https://mushen-ji.github.io/"
-},
+
 
 {
   
