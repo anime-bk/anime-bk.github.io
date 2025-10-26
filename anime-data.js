@@ -2,9 +2,9 @@ const animeList = [
 
   {
   
-    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-53 ซับไทย",
+    title: "Mushen Ji – ตำนานเทพกู้จักรวาล ตอนที่ 1-54 ซับไทย",
     img: "https://img5.pic.in.th/file/secure-sv1/Mushen-Ji.jpg",
-    type: "ตอนที่ 1-53 ซับไทย.",
+    type: "ตอนที่ 1-54 ซับไทย.",
     link: "https://mushen-ji.github.io/"
 },
 
